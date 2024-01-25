@@ -1,4 +1,4 @@
-Final Project
+                                                Veterinary WebApp
 
 This is the final project from the Full Stack .Net Academy. We are going to build a .NET MVC Web Application for a Veterinary Client which will allow for the tracking of Pets and Owners and Vaccines. 
 As part of this project, we will have an implementation of the following concepts.
